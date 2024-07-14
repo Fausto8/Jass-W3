@@ -1,0 +1,6 @@
+function HelloWorld takes nothing returns nothing
+    call BJDebugMsg("Hello World")
+endfunction
+
+//call
+call HelloWorld()

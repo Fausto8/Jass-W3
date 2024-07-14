@@ -1,0 +1,7 @@
+https://encyclopedia.pub/entry/36577
+
+I2R(): casts integer to real
+R2I(): casts real to integer
+I2S(): casts integer to string
+R2S(): casts real to string
+S2I(): casts string to integer
